@@ -18,10 +18,6 @@ I'm the founder of AI2sql, passionate about bridging the gap between AI and data
 - 📘 [LinkedIn]((https://www.linkedin.com/in/mustafaergisi/))
 - 🐦 [Twitter](https://twitter.com/mustafaergisi)
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ---
 
 💡 Interested in AI-powered database solutions? Check out [AI2sql](https://ai2sql.io) and let's revolutionize database queries together!
