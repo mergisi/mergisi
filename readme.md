@@ -7,3 +7,5 @@ I'm the founder of AI2sql, passionate about bridging the gap between AI and data
 - 🚀 Founder of [AI2sql](https://ai2sql.io)
 - 💡 Innovating in the field of AI-powered SQL generation
 - 💻 Constantly exploring new technologies and methodologies in AI and databases
+
+- <a rel="me" href="https://sosyal.teknofest.app/@mergisii">Follow me on Next</a>
